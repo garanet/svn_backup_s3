@@ -1,5 +1,6 @@
 #!/bin/bash
 # www.garanet.net
+# Simple Bash script, to make a SVN folder backup with the challange to upload the tar.gz files to S3 AWS
 # https://github.com/garanet/svn_backup_s3.git
 
 # Define variable
